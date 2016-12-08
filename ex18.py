@@ -16,6 +16,11 @@ def print_one(arg1):
 def print_none():
 	print "I got nothin'."
 
+'''
+# can not overload fun
+def print_one():
+	print "i"
+'''	
 
 print_two("zed", "shaw")	
 print_tow_again("zed", "shaw")
