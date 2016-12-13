@@ -1,0 +1,5 @@
+bitbucket.org
+launchpad.net
+sourceforge.net
+freecode.com
+github.com
