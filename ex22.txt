@@ -1,0 +1,78 @@
+print
+python python.py
+
+#
+'''
+'''
+
+# -*- coding: utf-8 -*-
+
++ - * / %
+
+= ==
+
+%s %r %d
+
+print "." * 10
+
+print "abc",
+print "efg"
+
+formatter = "%r %r %r %r"
+print formatter % (1, 2, 3, 4)
+
+print """
+hello
+hi
+ni
+hao
+"""
+
+\t
+\\
+\'
+\"
+\n
+\a
+and so on
+
+
+age = raw_input()
+raw_input([prompt])
+
+
+from sys import argv
+script, first, second, third = argv
+$ python ex13.py first 2nd 3rd
+
+
+from sys import argv
+script, filename = argv
+txt = open(filename)
+print txt.read()
+
+
+pydoc file
+
+
+from sys import argv
+script, filename = argv
+
+target = open(filename, 'w')
+target.truncate()
+target.write()
+target.close()
+
+
+def function_name([args]):
+
+
+file operation:
+
+
+
+
+
+
+
+
